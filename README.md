@@ -1,16 +1,64 @@
-# React + Vite
+# JR Corporate Solutions – Business Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive business website built using **React and Vite**.
+This website is designed for **JR Corporate Solutions Pvt Ltd** to showcase company services such as business registration, GST services, taxation, and compliance support.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+* Responsive design for **desktop, tablet, and mobile**
+* Modern **React component-based architecture**
+* Smooth UI with professional layout
+* Service registration forms
+* Business service sections
+* Mobile-friendly navigation menu
+* Optimized performance using **Vite**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* Vite
+* JavaScript (ES6+)
+* CSS3
+* HTML5
+* React Icons
+* Framer Motion
+
+---
+
+
+## 📱 Responsive Design
+
+The website is optimized for:
+
+* Desktop screens
+* Tablets
+* Mobile devices
+
+---
+
+## 📞 Business Services Included
+
+* Company Registration
+* GST Registration
+* MSME Registration
+* Tax Filing
+* Compliance Services
+* Government E-Services
+
+---
+
+## 👨‍💻 Developed For
+
+JR Corporate Solutions Pvt Ltd 
+
+🔗 Live Website: https://jrcorpregister.in
+
+---
+
+## 📄 License
+
+This project is for business and demonstration purposes.
