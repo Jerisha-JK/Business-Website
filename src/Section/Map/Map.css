@@ -1,0 +1,16 @@
+.map-section {
+  text-align: center;
+  background: var(--bg-light);
+}
+
+.map-title {
+  margin-bottom: 40px;
+}
+
+.map-container {
+  max-width: 1100px;
+  margin: auto;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
